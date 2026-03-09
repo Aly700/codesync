@@ -1,0 +1,8 @@
+{
+  "name": "codesync",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
